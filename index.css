@@ -1,0 +1,133 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,400;1,300&display=swap');
+body {
+    font-family: 'Roboto', sans-serif;
+    font: normal;
+    background: #c0b8f2 ;
+    width: 100%;
+    height: auto;
+}
+#header {
+    border-bottom: 2px solid #000;
+    
+    width: 80%px;
+    height: 350px;
+    margin: 40px;
+    padding: 10px;
+
+}
+.ul1 {
+    list-style-type:  none;
+}
+.li1 {
+    color: antiquewhite;
+    text-shadow: 4px 4px 14px rgba(203, 158, 158, 0.5);
+}
+.img1 {    
+position: relative;
+top: -8px;
+left: 150px;
+border-radius: 28px;
+box-shadow: 4px 4px 14px rgba(0, 0, 0, 0.5);
+}
+.name {
+    font-size: 40px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    position: relative;
+    top: -300px; 
+    left: 460px;
+    padding: 10px;
+    width: 64%;
+    background: linear-gradient(90deg, #390c49 0.6%, rgb(21, 20, 37) 10%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    box-shadow: 4px 4px 14px rgba(0, 0, 0, 0.5);
+}
+.old {
+    font-size: 22px;
+    position: relative;
+    width: 80%;
+    top: -300px;
+    left: 480px;
+}
+.about {
+    letter-spacing: normal;
+    font-size: 20px;
+    width: 80%;
+    position: relative;
+    top: -300px;
+    left: 480px;
+}
+.worck {
+    position: relative;
+    width: 80%;
+    left: 160px;
+    padding: 20px;
+    border-bottom: 2px solid #000;
+}
+.xobbi {
+    position: relative;
+    width: 80%;
+    left: 160px;
+    padding: 20px;
+    border-bottom: 2px solid #000;
+} 
+.ul2 {
+    position: relative;
+    left: 50px;
+    list-style-type:  none;
+}
+.ul3 { 
+    position: relative;
+    left: 50px;
+    list-style-type:  none;
+}
+ul {
+    list-style-type:  none;
+}
+.sochial {
+    position: relative;
+    width: 80%;
+    left: 160px;
+    padding: 20px;
+    border-bottom: 2px solid #000;
+}
+a {
+    color: rgb(252, 252, 254);
+    text-shadow: 4px 4px 14px rgba(203, 158, 158, 0.5);
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+    color: #4227f1;
+}
+section {
+
+    box-shadow: 4px 4px 14px rgba(0, 0, 0, 0.5);
+    padding: 10px;
+    margin: 20px;
+
+}
+.school {
+    position: relative;
+    width: 80%;
+    left: 160px;
+    padding: 20px;
+    border-bottom: 2px solid #000;
+}
+footer {
+    border-bottom: 2px solid #000;
+    
+    width: 100%px;
+    height: 150px;
+    margin: 10px;
+    padding: 10px;
+text-align: center;
+}
+.flex {
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
